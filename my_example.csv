@@ -37,3 +37,7 @@ src,dst,relationship,cost
 "Immingham","Doncaster","Road",74
 "Hoek van Holland","Den Haag","Road",27
 "Felixstowe","Hoek van Holland","Road",207
+"London","Hoek van Holland","Road",16
+"London","Москва","Road",1656
+"Ipswich","Rotterdam","Road",26
+"Colchester","Immingham","Road",369
