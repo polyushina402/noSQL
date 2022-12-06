@@ -41,3 +41,4 @@ src,dst,relationship,cost
 "London","Москва","Road",1656
 "Ipswich","Rotterdam","Road",26
 "Colchester","Immingham","Road",369
+"Москва","Immingham","Road",9313
