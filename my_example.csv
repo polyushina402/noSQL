@@ -30,3 +30,10 @@ src,dst,relationship,cost
 "Москва","Санкт-Петербург","Road",712
 "Москва","Южно-Сахалинск","Road",9313
 "Санкт-Петербург","Калининград","Road",963
+"Amsterdam","Utrecht","Road",46
+"Amsterdam","Den Haag","Road",59
+"Den Haag","Rotterdam","Road",26
+"Amsterdam","Immingham","Road",369
+"Immingham","Doncaster","Road",74
+"Hoek van Holland","Den Haag","Road",27
+"Felixstowe","Hoek van Holland","Road",207
